@@ -54,6 +54,12 @@ Install the typing libraries using the following command: 'from typing import An
 Install the typing package using the following command: 'import hashlib'
 
 
+--- 
+
+## Usage
+
+To run this program, clone the repository onto your computer, navigate to its source folder in your terminal and launch it using the command 'streamlit run pychain.py' then interact with the web interface that opens.
+
 ---
 
 ## Contributors
