@@ -1,7 +1,7 @@
-# Module 18 Challenge Assignment 
----
+# Create a Blockchain Based Ledger System & Web Interface
 
-## Create a Blockchain Based Ledger System & Web Interface
+*Module 18 Challenge Assignment*
+
 ---
 
 ## Overview 
